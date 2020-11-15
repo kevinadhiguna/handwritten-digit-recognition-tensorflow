@@ -7,4 +7,8 @@ on the MNIST handwriting dataset.
 
 The MNIST dataset is provided by the National Institute of Standards and Technology(NIST). The dataset consists of handwritten digits from 250 individuals, of which 50% are highschool students and 50% are staff from Bureau of the Census. <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevinadhiguna/handwritten-digit-recognition-tensorflow/master/illustration/illustration.png" alt="dataset-illustration" />
+</p>
+
 It is not mandatory but you can download the dataset directly from http://yann.lecun.com/exdb/mnist/.
