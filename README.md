@@ -13,4 +13,5 @@ The MNIST dataset is provided by the National Institute of Standards and Technol
 
 It is not mandatory but you can download the dataset directly from http://yann.lecun.com/exdb/mnist/.
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/handwritten-digit-recognition-tensorflow)](https://github.com/kevinadhiguna)
+
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=handwritten-digit-recognition-tensorflow&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
